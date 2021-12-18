@@ -292,12 +292,15 @@ d3.json(tectonicplates).then(function(data) {
   });
 });
 
-        // Overview mini map
-        var miniMap = new L.Control.MiniMap(navigationNight, {
-            toggleDisplay: true,
-            minimized: false,
-            position: 'bottomleft'
-        }).addTo(map);
+// Overview mini map
+var miniMap = L.Control.MiniMap(navigationNight, {
+    toggleDisplay: true,
+    minimized: false,
+    position: 'bottomleft'
+});
+
+// Finally, we our legend to the map.
+    miniMap.addTo(map);
 
     </script>
 
