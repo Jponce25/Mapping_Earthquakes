@@ -10,4 +10,4 @@ The Disaster reporting network data visualizations could be viewed in the follow
 
 Webpage view
 
-<img src="https://github.com/Jponce25/Bellybutton-plotly/blob/ed308cafba80162d49204a22ccc080b2cec7045d/Images/Imagen1.png" width="680">
+<img src="https://github.com/Jponce25/Mapping_Earthquakes/blob/9c8eaff1a22ce9d385af0e805642c727c343476c/Images/Imagen1.png" width="680">
